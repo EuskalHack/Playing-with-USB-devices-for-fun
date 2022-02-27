@@ -14,7 +14,7 @@
 </video>
 
 
-[Video](https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4)
+[Ver Video POC](https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4)
 
 
 <a href="http://euskalhack.org/">
