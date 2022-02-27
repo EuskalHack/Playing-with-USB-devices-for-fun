@@ -1,5 +1,4 @@
 # Playing-with-USB-devices-for-fun
-Código de la charla impartida en Euskaltel Security Talks por Jejo y Rober
 
 [Charla: Código de la charla Hablamos de Seguridad digital impartida en Euskaltel Security Talks por Jejo y Rober. (Edificio Euskaltel 12-11-2021)](https://blog.euskaltel.com/hablamos-seguridad-digital-asociacion-euskalhack/)
 
