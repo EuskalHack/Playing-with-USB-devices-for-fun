@@ -9,9 +9,13 @@
 
 
 <video width="400" controls>
-  <source src="./img/POC_bad_USB_cable_charger.mp4" type="video/mp4">
+  <source src="https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
+
+
+[Video](https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4)
+
 
 <a href="http://euskalhack.org/">
 <img src="https://euskalhack.org/images/EuskalHack_Logo.png" alt="Asociación de Seguridad Informática EuskalHack - " />
