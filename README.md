@@ -7,6 +7,13 @@
 ![](./img/POC_bad_USB_cable_charger.jpg) 
 
 
+
+
+<video width="400" controls>
+  <source src="https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/blob/main/img/POC_bad_USB_cable_charger.mp4?raw=true" type="video/mp4">
+  Your browser does not support HTML video.
+</video>
+
 <a href="http://euskalhack.org/">
 <img src="https://euskalhack.org/images/EuskalHack_Logo.png" alt="Asociación de Seguridad Informática EuskalHack - " />
 </a>
