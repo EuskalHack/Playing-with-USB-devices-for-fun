@@ -9,8 +9,8 @@
 
 
 <video width="400" controls>
-  <source src="https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4" type="video/mp4">
-  Your browser does not support HTML video.
+<source src="https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4" type="video/mp4">
+Your browser does not support HTML video.
 </video>
 
 
