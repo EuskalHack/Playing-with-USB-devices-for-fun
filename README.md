@@ -1,10 +1,14 @@
 # Playing-with-USB-devices-for-fun
 
-[Charla: Código de la charla Hablamos de Seguridad digital impartida en Euskaltel Security Talks por Jejo y Rober. (Edificio Euskaltel 12-11-2021)](https://blog.euskaltel.com/hablamos-seguridad-digital-asociacion-euskalhack/)
+##### [Código de la charla Hablamos de Seguridad digital impartida en Euskaltel Security Talks <br/> por Jejo y Rober. (Edificio Euskaltel 12-11-2021)](https://blog.euskaltel.com/hablamos-seguridad-digital-asociacion-euskalhack/)
+
+___
 
 ![](./img/Animation_POC_bad_USB_cable_charger.gif) 
+___
 
 ![](./img/POC_bad_USB_cable_charger.jpg) 
+
 
 
 
@@ -16,6 +20,7 @@ Your browser does not support HTML video.
 
 [Ver Video POC](https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4)
 
+___
 
 <a href="http://euskalhack.org/">
 <img src="https://euskalhack.org/images/EuskalHack_Logo.png" alt="Asociación de Seguridad Informática EuskalHack - " />
