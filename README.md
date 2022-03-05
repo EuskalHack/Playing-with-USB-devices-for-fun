@@ -17,9 +17,14 @@ ___
 
 
 <video width="400" controls>
-<source src="https://user-images.githubusercontent.com/38666222/156882197-ca8491cf-75d0-4f92-9537-34e562addac0.mp4" type="video/mp4">
+<source src="https://user-images.githubusercontent.com/38666222/156882245-61ac8d5c-6bec-4c7c-a165-d162ad95535b.mp4" type="video/mp4">
 Your browser does not support HTML video.
 </video>
+
+
+https://user-images.githubusercontent.com/38666222/156882245-61ac8d5c-6bec-4c7c-a165-d162ad95535b.mp4
+
+
 
 
 [Ver Video POC](https://github.com/EuskalHack/Playing-with-USB-devices-for-fun/raw/main/img/POC_bad_USB_cable_charger.mp4)
